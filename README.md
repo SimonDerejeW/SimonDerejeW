@@ -18,7 +18,7 @@
 #  👨‍💻 Software Engineer at AAiT.
 -  🚀 Writing Clean Code.
 !  ✨ If you can imagine it, you can program it.
-@@ 💻Solving problems.@@
+@@ 💻Competitive Programmer.@@
 ```
 
 <br>
