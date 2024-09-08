@@ -152,7 +152,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.java.com/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
             alt="java"
@@ -172,7 +172,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase"
