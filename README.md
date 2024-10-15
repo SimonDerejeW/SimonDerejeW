@@ -13,7 +13,7 @@
   <!-- Description -->
 
 ```diff
-🛠️ Currently working on SRH360 App (Ethio-Health Alliance)
+🛠️ Currently working on the Guaz App (AfroBin Logistics)
 +  ✔️ Team Player.
 #  👨‍💻 Software Engineer at AAiT.
 -  🚀 Writing Clean Code.
