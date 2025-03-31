@@ -13,7 +13,7 @@
   <!-- Description -->
 
 ```diff
-🛠️ Currently working on the Guaz App (AfroBin Logistics)
+🛠️ Currently working on the Mela Finance App
 +  ✔️ Team Player.
 #  👨‍💻 Software Engineer at AAiT.
 -  🚀 Writing Clean Code.
